@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=java.io.InputStream\ load(java.lang.String)
+comment1.params=
+comment1.target=void\ beep()
+comment1.text=\r\n\ Un\ beep\ simple\r\n
+comment2.params=
+comment2.target=void\ stop()
+comment2.text=\r\n\ Para\ el\ loop\ que\ esta\ sonando\r\n
+comment3.params=filename
+comment3.target=void\ play(java.lang.String)
+comment3.text=\r\n\ Reproduce\ un\ fichero\ de\ sonido\ (.wav\ o\ .au)\ asincronamente\r\n\ @param\ filename\ El\ nombre\ del\ fichero\ (.wav\ o\ .au)\ compatible\ con\ Java.\r\n
+comment4.params=filename
+comment4.target=void\ loop(java.lang.String)
+comment4.text=\r\n\ Reproduce\ sin\ parar\ un\ fichero\ de\ sonido\ (.wav\ o\ .au)\ asincronamente\r\n
+comment5.params=filename
+comment5.target=void\ loopMidi(java.lang.String)
+comment5.text=\r\n\ Reproduce\ en\ loop\ un\ fichero\ de\ sonido\ midi\ asincronamente\r\n
+comment6.params=filename
+comment6.target=void\ playMidi(java.lang.String)
+comment6.text=\r\n\ Reproduce\ un\ fichero\ de\ sonido\ midi\ asincronamente\r\n
+comment7.params=
+comment7.target=void\ stopMidi()
+comment7.text=\r\n\ Detiene\ la\ reproduccion\ del\ fichero\ midi\ en\ curso\r\n
+numComments=8
