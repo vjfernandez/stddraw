@@ -9,7 +9,7 @@ También vamos a poder jugar un poco con el sonido. La clase **StdSound** la he 
 
 - - - 
 
-Descarga la libería que incluye ambas clases aquí: [StdDrawSound.jar](https://github.com/vjfernandez/stddraw/StdDrawSound/StdDrawSound.jar) , e inclúyela en la carpeta _lib/userlib_ de BlueJ. Alternativamente, también puedes guardarla donde quieras, y añadirla a la lista de librerías que carga BlueJ con la opción del menú _Tools/Preferences/Libraries/Add_
+Descarga la libería que incluye ambas clases aquí: [StdDrawSound.jar](https://github.com/vjfernandez/stddraw/blob/master/StdDrawSound/StdDrawSound.jar) , e inclúyela en la carpeta _lib/userlib_ de BlueJ. Alternativamente, también puedes guardarla donde quieras, y añadirla a la lista de librerías que carga BlueJ con la opción del menú _Tools/Preferences/Libraries/Add_
 
 Ninguna de las dos clases se instancia. Todos sus métodos son estáticos y se encuentran el paquete _org.daw1_. (Conviene hacer `import org.daw1.*`.
 
