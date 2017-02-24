@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_45\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Alpha\Google Drive\cole\ProgDAW\StdDrawSound\StdDrawSound;C:\Users\Alpha\Google Drive\cole\ProgDAW\AppInterfaces
+-d
+C:\Users\Alpha\Google Drive\cole\ProgDAW\AppInterfaces\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Alpha\Google Drive\cole\ProgDAW\AppInterfaces\AppInterfaces.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Alpha\Google Drive\cole\ProgDAW\AppInterfaces\AppInterfaces.java...
+C:\Users\Alpha\Google Drive\cole\ProgDAW\AppInterfaces\AppInterfaces.java:13: error: ';' expected
+    private static final int MAX_LINEAS=10
+                                          ^
+C:\Users\Alpha\Google Drive\cole\ProgDAW\AppInterfaces\AppInterfaces.java:17: error: not a statement
+        Linea[]=new Linea[MAX_LINEAS]     
+             ^
+C:\Users\Alpha\Google Drive\cole\ProgDAW\AppInterfaces\AppInterfaces.java:17: error: ';' expected
+        Linea[]=new Linea[MAX_LINEAS]     
+               ^
+C:\Users\Alpha\Google Drive\cole\ProgDAW\AppInterfaces\AppInterfaces.java:17: error: not a statement
+        Linea[]=new Linea[MAX_LINEAS]     
+                         ^
+C:\Users\Alpha\Google Drive\cole\ProgDAW\AppInterfaces\AppInterfaces.java:17: error: ';' expected
+        Linea[]=new Linea[MAX_LINEAS]     
+                                     ^
+5 errors

@@ -11,7 +11,7 @@ package org.daw1;
  *
  *  Todo
  *  ----
- *    -  Add support for gradient fill, etc.
+ *    -  Add support for gradient fill, etc.Vamos a cambiar el array de Puntos por un array de interfaces Forma.Vamos a cambiar el array de Puntos por un array de interfaces Forma.Vamos a cambiar el array de Puntos por un array de interfaces Forma.Vamos a cambiar el array de Puntos por un array de interfaces Forma.Vamos a cambiar el array de Puntos por un array de interfaces Forma.
  *
  *  Remarks
  *  -------
@@ -89,7 +89,7 @@ public final class StdDraw implements ActionListener, MouseListener, MouseMotion
     // default pen radius
     private static final double DEFAULT_PEN_RADIUS = 1;
 
-    // current pen radius
+    // current pen radiusVamos a cambiar el array de Puntos por un array de interfaces Forma.Vamos a cambiar el array de Puntos por un array de interfaces Forma.Vamos a cambiar el array de Puntos por un array de interfaces Forma.Vamos a cambiar el array de Puntos por un array de interfaces Forma.
     private static double penRadius;
 
     // show we draw immediately or wait until next show?
